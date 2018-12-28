@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #### Cursor Control Using 2 different color strips (RED - Pointer, 1 GREEN - Left click, 2 GREEN - Doube click) #######
 
 import win32api
@@ -119,10 +113,5 @@ while True:
 
 cam.release()       
 cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
 
 
