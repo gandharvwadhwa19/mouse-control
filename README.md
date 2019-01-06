@@ -1,4 +1,4 @@
-# mouse-movement-color-segmentation
+# mouse movement using color segmentation
 
 > Control mouse movements with the help of color segmentation using opencv
 
